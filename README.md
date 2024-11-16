@@ -67,7 +67,7 @@ I'm always looking for opportunities to blend security with innovation in health
 ---
 
 ### 🌱 Currently Exploring
-I'm currently delving into **cloud security** and **digital forensics**, focusing on advanced strategies to secure cloud-based healthcare systems. I'm also involved in industry forums to refine **vulnerability scoring methodologies** and enhance **incident response strategies**.
+I'm currently delving into cloud security and digital forensics, focusing on advanced strategies to secure cloud-based healthcare systems. I'm also involved in industry forums to refine vulnerability scoring methodologies and enhance incident response strategies.
 
 ---
 
@@ -78,14 +78,14 @@ I'm currently delving into **cloud security** and **digital forensics**, focusin
 ---
 
 ### 📝 Blog & Articles
-- **[Securing Healthcare Systems: Best Practices](https://medium.com/@jeremykimball/securing-healthcare-systems)**: Insights on how to implement effective security measures in the healthcare industry.
-- **[Zero Trust in Medical Devices: A Practical Approach](https://medium.com/@jeremykimball/zero-trust-medical-devices)**: A guide to understanding and implementing Zero Trust Architecture in medical technology.
+- **[Securing Healthcare Systems: Best Practices](https://medium.com/@PuddleSec/securing-healthcare-systems)**: Insights on implementing effective security measures in the healthcare industry.
+- **[Zero Trust in Medical Devices: A Practical Approach](https://medium.com/@PuddleSec/zero-trust-medical-devices)**: A guide to understanding and implementing Zero Trust Architecture in medical technology.
 
 ---
 
 ### 🌐 On the Web
 - [LinkedIn](https://www.linkedin.com/in/jeremykimball)
-- [Medium](https://medium.com/@jeremykimball)
+- [Medium](https://medium.com/@PuddleSec)
 - [Twitter](https://twitter.com/PuddleSec)
 
 ---
