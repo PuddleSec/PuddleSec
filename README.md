@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-I'm a Principal Product Security Engineer with extensive experience in secure medical device development, advanced regulatory compliance, and the implementation of security frameworks like Zero Trust and Privacy by Design. I aim to create reliable healthcare technology that enhances patient safety while meeting the highest industry standards.
+I'm a Principal Product Security Engineer with extensive experience in secure medical device development, advanced regulatory compliance, and implementing security frameworks like Zero Trust and Privacy by Design. I aim to create reliable healthcare technology that enhances patient safety while meeting the highest industry standards.
 
 I specialize in:
 - **Product Security & Compliance**: Navigating stringent regulatory environments such as **HIPAA**, **FDA**, **EU MDR**, and **ISO 13485**.
@@ -21,7 +21,7 @@ In my current role, I focus on building **secure medical devices** and ensuring 
 - **Zero Trust Implementation**: Spearheading **Zero Trust Architecture** across product lines, mitigating unauthorized access risks, and setting benchmarks in cybersecurity compliance.
 - **Collaboration for Compliance**: Working alongside regulatory and development teams to align product security with **HIPAA**, **FDA**, **GDPR**, and **MDR** standards.
 
-I'm always looking for opportunities to blend **security** with **innovation** in healthcare, helping organizations navigate security complexities while delivering impactful healthcare solutions.
+I'm always looking for opportunities to blend security with innovation in healthcare, helping organizations navigate security complexities while delivering impactful healthcare solutions.
 
 ---
 
@@ -49,13 +49,13 @@ I'm always looking for opportunities to blend **security** with **innovation** i
 ---
 
 ### 📊 GitHub Stats
-![Jeremy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremykimball&show_icons=true&theme=radical)
+![Jeremy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuddleSec&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jeremykimball&theme=darkhub)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PuddleSec&theme=darkhub)
 
 ### ✨ Featured Technologies
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremykimball&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PuddleSec&layout=compact&theme=radical)
 
 ---
 
