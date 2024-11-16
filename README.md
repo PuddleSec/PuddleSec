@@ -52,10 +52,6 @@ I'm always looking for opportunities to blend security with innovation in health
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-orange?logo=xml&logoColor=white)
 ![Scripting](https://img.shields.io/badge/-Scripting-blueviolet)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
@@ -82,7 +78,7 @@ I'm always looking for opportunities to blend security with innovation in health
 ---
 
 ### 🌱 Currently Exploring
-I'm currently delving into **cloud security** and **digital forensics**, focusing on advanced strategies to secure cloud-based healthcare systems. I'm also involved in industry forums to refine **vulnerability scoring methodologies** and enhance **incident response strategies**.
+I'm currently expanding my knowledge in **digital forensics** and **vulnerability management**, focusing on effective incident response strategies to ensure healthcare systems' security.
 
 ---
 
