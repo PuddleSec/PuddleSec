@@ -9,53 +9,39 @@
 ---
 
 ### 🚀 About Me
-I'm a Principal Product Security Engineer specializing in secure medical device development, regulatory compliance, and implementing advanced cybersecurity frameworks like Zero Trust and Privacy by Design. My mission is to create healthcare technology that is secure, resilient, and enhances patient safety while adhering to the highest industry standards.
+I'm a Principal Product Security Engineer with extensive experience in secure medical device development, advanced regulatory compliance, and implementing security frameworks like Zero Trust and Privacy by Design. My mission is to create healthcare technology that is secure, resilient, and enhances patient safety while adhering to the highest industry standards.
 
-#### Key Accomplishments
-- Successfully led product security initiatives across medical devices, achieving compliance with **HIPAA**, **FDA**, **ISO 13485**, and **EU MDR**.
-- Spearheaded **Zero Trust Architecture** for Baxter Healthcare's medical device product lines, enhancing resilience against cyber threats.
-- Developed and implemented **Privacy by Design** methodologies to meet regulatory requirements while maintaining operational flexibility for healthcare products.
-
-I thrive at the intersection of **technology and regulation**, ensuring that cutting-edge healthcare technologies are secure, compliant, and ultimately support patient safety and quality care.
+I specialize in:
+- **Product Security & Compliance**: Navigating stringent regulatory environments such as **HIPAA**, **FDA**, **EU MDR**, and **ISO 13485**.
+- **Threat Modeling & Security Architecture**: Designing secure systems that withstand sophisticated threats while aligning with industry compliance standards.
+- **Healthcare Innovation**: Passionate about making healthcare technology resilient, innovative, and accessible, with a focus on patient safety.
 
 ---
 
 ### 💡 What I Do
-Currently, I focus on building **secure medical devices** and ensuring **regulatory compliance** for products in complex healthcare environments. My core activities include:
+In my current role, I focus on building **secure medical devices** and ensuring **regulatory compliance** for products in complex healthcare environments. My core activities include:
 
-- **Security Architecture Leadership**: Lead threat modeling, security reviews, and risk assessments to establish secure infrastructures that ensure patient data integrity.
-- **Zero Trust Implementation**: Spearhead the adoption of **Zero Trust Architecture** across medical devices, mitigating unauthorized access risks.
-- **Compliance Collaboration**: Work alongside regulatory and development teams to align product security with **HIPAA**, **FDA**, **GDPR**, **MDR**, and **ISO 27001** standards.
-- **Incident Response & Digital Forensics**: Develop incident response strategies and conduct forensic analysis to ensure rapid recovery and minimal impact during security incidents.
+- **Leading Security Architecture Initiatives**: Directing threat modeling, security reviews, and risk management to establish secure infrastructures that protect patient data integrity.
+- **Zero Trust Implementation**: Spearheading **Zero Trust Architecture** across product lines, mitigating unauthorized access risks, and setting benchmarks in cybersecurity compliance.
+- **Collaboration for Compliance**: Working alongside regulatory and development teams to align product security with **HIPAA**, **FDA**, **GDPR**, **MDR**, and **ISO 27001** standards.
+- **Incident Response & Forensics**: Developing incident response strategies and conducting digital forensics to ensure rapid recovery and minimal impact during security events.
 
-My focus is always on **integrating security seamlessly** into the product lifecycle—making security an enabler of healthcare technology innovation rather than an obstacle.
+I'm always looking for opportunities to blend security with innovation in healthcare, helping organizations navigate security complexities while delivering impactful healthcare solutions.
 
 ---
 
 ### 📈 Featured Projects
-
-- **Zero Trust for Medical Devices**
-  - Pioneered a company-wide **Zero Trust Architecture** for medical devices at Baxter Healthcare, increasing resilience against cyber threats and achieving FDA cybersecurity compliance.
-
-- **Security Compliance Integration**
-  - Integrated advanced security practices across product development lifecycles, collaborating with IT and engineering teams to ensure adherence to **ISO 27001** and **IEC 62304** standards.
-
-- **Healthcare Threat Modeling**
-  - Led threat modeling sessions across cross-functional teams, significantly improving awareness of potential risks and establishing mitigations that reduced security gaps by over 40%.
+- **Zero Trust for Medical Devices**: Pioneered a company-wide **Zero Trust Architecture** to secure product lines at Baxter Healthcare, leading to improved resilience against threats and achieving compliance with FDA cybersecurity standards.
+- **Security Compliance Integration**: Successfully integrated advanced security solutions into the product lifecycle, raising data protection standards through close collaboration with **IT** and **development teams**.
+- **Regulatory Compliance Leadership**: Led security assessments that aligned product lines with **ISO 27001** and **IEC 62304**, reducing vulnerabilities and setting new standards for product security.
 
 ---
 
-### 🚒 Skills & Expertise
-
-#### 🛠️ Security & Compliance
-- **Zero Trust Architecture**, **Privacy by Design**, **ISO 27001**, **NIST 800-53**
-- **Regulatory Compliance**: **HIPAA**, **FDA**, **EU MDR**, **ISO 13485**, **GDPR**
-
-#### 💻 Data Integration & Development
-- **XSLT**, **HL7**, **FHIR**, **SQL**, **XML**, **Scripting** for secure healthcare data migration
-
-#### 👩‍🎓 Leadership & Collaboration
-- Leading cross-functional teams, **risk analysis**, and aligning product security initiatives across development, IT, and compliance teams
+### 🛠️ Skills & Expertise
+- 💻 **Security Frameworks**: **Zero Trust**, **Privacy by Design**, **ISO 27001**, **NIST 800-53**
+- 📜 **Regulatory Compliance**: **HIPAA**, **FDA**, **EU MDR**, **ISO 13485**, **GDPR**
+- 🔧 **Data Integration & Software Tools**: Proficient in **XSLT**, **HL7**, **FHIR**, **SQL**, **XML**, and **scripting** for secure healthcare data migration
+- 🌟 **Technical Leadership**: Leading cross-functional collaboration, performing risk analysis, and driving product security alignment across teams
 
 ![CISSP](https://img.shields.io/badge/CISSP-Certified-blue) ![CISM](https://img.shields.io/badge/CISM-Certified-green) ![CCSP](https://img.shields.io/badge/CCSP-Certified-blue)
 
@@ -77,10 +63,10 @@ My focus is always on **integrating security seamlessly** into the product lifec
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 ![Jeremy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuddleSec&show_icons=true&theme=radical)
 
-### 🌟 GitHub Trophies
+### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PuddleSec&theme=darkhub)
 
 ### ✨ Featured Technologies
@@ -97,7 +83,7 @@ I'm currently expanding my knowledge in **digital forensics** and **vulnerabilit
 ---
 
 ### 🎉 Fun Facts
-- **Outside of Work**: I enjoy hiking, exploring new tech gadgets, and contributing to open-source projects.
+- **Outside of Work**: I love hiking, exploring new tech gadgets, and contributing to open-source projects.
 - **Favorite Tech Book**: "Threat Modeling: Designing for Security" by Adam Shostack.
 
 ---
@@ -110,7 +96,9 @@ I'm currently expanding my knowledge in **digital forensics** and **vulnerabilit
 ---
 
 ### 🤝 Let's Connect
-I'm passionate about contributing to projects that push the boundaries of healthcare security. Whether you're looking for collaboration or have an exciting opportunity, let's connect! Together, we can create a more secure, innovative future for healthcare technology.
+I'm passionate about contributing to projects pushing healthcare security's boundaries. I'm open to connecting whether you're looking for a collaboration or have an exciting opportunity. Together, we can create a more secure, innovative future for healthcare technology.
+
+Feel free to discuss potential projects, collaborate, or connect!
 
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect-LinkedIn-blue)](https://www.linkedin.com/in/jeremykimball)
 
