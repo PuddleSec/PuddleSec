@@ -7,7 +7,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=PuddleSec&color=blue)
 
 ---
-
+![Banner](https://i.ibb.co/yQjnVtc/Designer-9.jpg)
 ### 🚀 About Me
 I'm a Principal Product Security Engineer with extensive experience in secure medical device development, advanced regulatory compliance, and implementing security frameworks like Zero Trust and Privacy by Design. My mission is to create healthcare technology that is secure, resilient, and enhances patient safety while adhering to the highest industry standards.
 
