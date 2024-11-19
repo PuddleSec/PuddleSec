@@ -31,9 +31,7 @@ I'm always looking for opportunities to blend security with innovation in health
 ---
 
 ### 📈 Featured Projects
-- **Zero Trust for Medical Devices**: Pioneered a company-wide **Zero Trust Architecture** to secure product lines at Baxter Healthcare, leading to improved resilience against threats and achieving compliance with FDA cybersecurity standards.
-- **Security Compliance Integration**: Successfully integrated advanced security solutions into the product lifecycle, raising data protection standards through close collaboration with **IT** and **development teams**.
-- **Regulatory Compliance Leadership**: Led security assessments that aligned product lines with **ISO 27001** and **IEC 62304**, reducing vulnerabilities and setting new standards for product security.
+- [Healthcare Security Blueprint](https://github.com/PuddleSec/healthcare-security-blueprint): Bridging Cybersecurity and Patient Care through secure medical device development, Zero Trust implementation, and regulatory compliance guidelines.
 
 ---
 
