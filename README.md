@@ -1,125 +1,103 @@
-# 👋 Hi there, I'm Jeremy Kimball
+# 👋 Hi there, I'm Jeremy Kimball  
 
-![Banner](https://i.ibb.co/yQjnVtc/Designer-8.jpg)
+![Banner](https://i.ibb.co/yQjnVtc/Designer-8.jpg)  
 
-**Bridging Cybersecurity and Patient Care**
+**Driving Secure Product Development Across Industries**  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=PuddleSec&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=PuddleSec&color=blue)  
 
 ---
-![About Me Banner](https://i.ibb.co/Wng50Np/Designer-9.jpg)
-### 🚀 About Me
-I'm a Principal Product Security Engineer dedicated to developing secure medical devices that enhance patient safety while meeting the highest industry standards. With a wealth of experience in advanced regulatory compliance and implementing security frameworks like Zero Trust and Privacy by Design, my focus is on innovation and resilience in healthcare technology.
+
+![About Me Banner](https://i.ibb.co/Wng50Np/Designer-9.jpg)  
+
+### 🚀 About Me  
+
+I'm a Principal Product Security Engineer with expertise in designing and securing cutting-edge products for various industries. From healthcare to IoT and software applications, my passion lies in safeguarding innovation through advanced security frameworks and compliance. I believe in embedding security at every stage of the product lifecycle, ensuring resilience and trust in every solution.
 
 Here’s what I specialize in:
-- **Product Security & Compliance**: Expertly navigating stringent regulations such as **HIPAA**, **FDA**, **EU MDR**, and **ISO 13485**.
-- **Threat Modeling & Security Architecture**: Crafting secure systems capable of withstanding sophisticated threats while ensuring compliance.
-- **Healthcare Innovation**: Driven by a passion for making healthcare technology not only secure but also accessible and transformative for patients. 
-
-I’m excited about the future of healthcare and what we can achieve together!
+- **Product Security & Compliance**: Mastering complex regulatory environments (e.g., **HIPAA**, **GDPR**, **ISO 27001**) and aligning product development with security best practices.
+- **Threat Modeling & Secure Architecture**: Building systems that not only withstand modern threats but also remain agile in meeting evolving user and business needs.
+- **Secure Product Development**: Driving innovation without compromising security, using frameworks like **Zero Trust** and **Privacy by Design**.
 
 ---
 
-### 💡 What I Do
-In my current role, I'm dedicated to creating secure medical devices and ensuring regulatory compliance in complex healthcare settings. Here’s what I’m passionate about:
+### 💡 What I Do  
 
-- **Leading Security Architecture Initiatives**: I take the lead in threat modeling and security reviews, proactively managing risks to build robust infrastructures that safeguard patient data.
+I lead cross-functional teams in embedding security into the DNA of products across sectors. Here's what I bring to the table:  
 
-- **Zero Trust Implementation**: I’m excited to drive the adoption of Zero Trust Architecture across our product lines, effectively reducing unauthorized access risks while establishing strong cybersecurity compliance standards.
-
-- **Collaborating for Compliance**: I thrive on working hand-in-hand with regulatory and development teams to ensure our product security aligns seamlessly with critical standards like HIPAA, FDA, GDPR, MDR, and ISO 27001.
-
-- **Incident Response & Forensics**: I craft effective incident response strategies and carry out digital forensics, ensuring swift recovery and minimal disruption during security incidents.
-
-I’m always eager to explore ways to weave security into innovative healthcare solutions, helping organizations tackle complex challenges while making a meaningful impact in the healthcare space!
+- **Product Security Strategy**: Establishing secure development lifecycles (SDLCs), integrating threat modeling, and championing secure-by-design principles.  
+- **Cross-Industry Compliance**: Navigating regulations like **HIPAA**, **GDPR**, **CMMC**, and **ISO 27001** to deliver compliant and secure solutions.  
+- **Emerging Tech Expertise**: Exploring the intersection of security and innovation, whether it's in medical devices, IoT ecosystems, or cloud applications.  
+- **Incident Response & Forensics**: Crafting tailored incident response plans and conducting digital forensics to mitigate risks and ensure business continuity.  
 
 ---
 
-### 📈 Featured Projects
-- [Healthcare Security Blueprint](https://github.com/PuddleSec/healthcare-security-blueprint): Bridging Cybersecurity and Patient Care through secure medical device development, Zero Trust implementation, and regulatory compliance guidelines.
+### 📈 Featured Projects  
+
+- [Product Security Blueprint](https://github.com/PuddleSec/product-security-blueprint): A comprehensive guide for building secure products across industries using Zero Trust, SDLC best practices, and advanced threat modeling techniques.  
+- [IoT Security Architecture](https://github.com/PuddleSec/iot-security-architecture): A deep dive into securing IoT ecosystems with practical applications of Zero Trust and Privacy by Design.  
+- [Secure Medical Devices](https://github.com/PuddleSec/secure-medical-devices): Case studies and frameworks for meeting stringent regulatory requirements in healthcare technology.  
 
 ---
 
-### 🛠️ Skills & Expertise
-**Security Frameworks**: 
-- **Zero Trust** 
-- **Privacy by Design** 
-- **ISO 27001** 
-- **NIST 800-53**
+### 🛠️ Skills & Expertise  
 
-**Regulatory Compliance**: 
-- **HIPAA** 
-- **FDA** 
-- **EU MDR** 
-- **ISO 13485** 
-- **GDPR**
+#### **Security Frameworks**  
+- **Zero Trust**  
+- **Privacy by Design**  
+- **DevSecOps**  
+- **NIST Cybersecurity Framework**  
 
-**Data Integration & Software Tools**: 
-- Skilled in **XSLT**, **HL7**, **FHIR**, **SQL**, **XML**, and scripting for seamless, secure healthcare data migration.
+#### **Technical Specialties**  
+- Secure Product Development Lifecycle (SDLC)  
+- Threat Modeling & Risk Analysis  
+- Vulnerability Management  
+- Incident Response & Forensics  
 
-**Technical Leadership**: 
-- Championing cross-functional teamwork, conducting insightful risk analyses, and aligning product security across all departments with enthusiasm!
+#### **Regulatory Expertise**  
+- **HIPAA**  
+- **GDPR**  
+- **ISO 27001**  
+- **CMMC**  
 
-![CISSP](https://img.shields.io/badge/CISSP-Certified-blue) ![CISM](https://img.shields.io/badge/CISM-Certified-green) ![CCSP](https://img.shields.io/badge/CCSP-Certified-blue)
-
-#### Technologies I Use
-![XSLT](https://img.shields.io/badge/-XSLT-007396?logo=xml&logoColor=white)
-![HL7](https://img.shields.io/badge/-HL7-critical)
-![FHIR](https://img.shields.io/badge/-FHIR-red)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-orange?logo=xml&logoColor=white)
-![Scripting](https://img.shields.io/badge/-Scripting-blueviolet)
+#### **Tools & Technologies**  
+![XSLT](https://img.shields.io/badge/-XSLT-007396?logo=xml&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-blue)  
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-orange)  
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-yellow)  
+![Docker](https://img.shields.io/badge/-Docker-lightblue)  
 
 ---
 
-### 🏆 Certifications
-- **Certified Information Systems Security Professional (CISSP)**
-- **Certified Information Security Manager (CISM)**
-- **Certified Cloud Security Professional (CCSP)**
-- **Healthcare Information Security** (ISC2)
+### 🏆 Certifications  
+
+- **Certified Information Systems Security Professional (CISSP)**  
+- **Certified Information Security Manager (CISM)**  
+- **Certified Cloud Security Professional (CCSP)**  
+- **Cybersecurity for IoT** (ISC2)  
 
 ---
 
-### 📊 GitHub Stats
-![Jeremy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuddleSec&show_icons=true&theme=radical)
+### 🌱 Currently Exploring  
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PuddleSec&theme=darkhub)
-
-### ✨ Featured Technologies
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PuddleSec&layout=compact&theme=radical)
-
-### 🔥 GitHub Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PuddleSec&theme=radical)
+I’m diving into securing AI/ML models and enhancing product security through innovative applications of emerging technologies like blockchain and quantum computing.  
 
 ---
 
-### 🌱 Currently Exploring
-I'm excited to deepen my expertise in digital forensics and vulnerability management, concentrating on effective incident response strategies to enhance the security of healthcare systems!
+### 🎉 Fun Facts  
+
+- **Hobbies**: I love hiking, tinkering with IoT devices, and exploring new tech stacks.  
+- **Inspiration**: The book "Threat Modeling: Designing for Security" by Adam Shostack continues to shape my approach to secure design.  
 
 ---
 
-### 🎉 Fun Facts
-- **Outside of Work**: I love hiking, exploring new tech gadgets, and contributing to open-source projects.
-- **Favorite Tech Book**: "Threat Modeling: Designing for Security" by Adam Shostack.
+### 🌐 Let's Connect  
+
+- [LinkedIn](https://www.linkedin.com/in/jeremykimball)  
+- [Twitter](https://twitter.com/PuddleSec)  
 
 ---
 
-### 🌐 On the Web
-- [LinkedIn](https://www.linkedin.com/in/jeremykimball)
-- [Medium](https://medium.com/@PuddleSec)
-- [Twitter](https://twitter.com/PuddleSec)
+### ✨ Bridging Security and Innovation  
 
----
-
-### 🤝 Let's Connect
-I am truly passionate about advancing healthcare security and would love to connect! If you’re exploring collaboration or have an exciting opportunity, let's team up to shape a safer and more innovative future for healthcare technology. I'm eager to discuss potential projects and explore how we can work together! 
-
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-LinkedIn-blue)](https://www.linkedin.com/in/jeremykimball)
-
----
-
-**Bridging Cybersecurity and Patient Care**
-
-**Empowering secure healthcare, one solution at a time.**
-
+*Empowering the future of secure product development across industries.*  
