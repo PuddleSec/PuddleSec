@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jeremy Kimball  
 
-![Banner](path-to-banner-image)  
+![Banner](path-to-your-banner-image)  
 
 **Leading Innovation in Secure Product Development**  
 
@@ -13,6 +13,29 @@
 I'm a **Principal Product Security Engineer** passionate about embedding security at the core of product innovation. From medical devices to IoT ecosystems and cloud applications, my mission is to design resilient, secure products that meet the highest industry standards.  
 
 With expertise in **Zero Trust**, **Privacy by Design**, and **regulatory compliance**, I help organizations navigate complex challenges while driving secure innovation.  
+
+---
+
+### 🔥 Featured Work  
+Explore some of my most impactful projects:  
+
+- **[Secure Medical Devices Guide](https://github.com/PuddleSec/secure-medical-devices):**  
+  A framework for secure and compliant medical device development, aligning with HIPAA and FDA standards.  
+
+- **[IoT Security Framework](https://github.com/PuddleSec/iot-security-framework):**  
+  Practical applications of Zero Trust for securing IoT ecosystems.  
+
+- **[Product Security Blueprint](https://github.com/PuddleSec/product-security-blueprint):**  
+  A comprehensive resource for building secure products across industries, from SaaS to healthcare.  
+
+---
+
+### Visual Representation of My Work  
+
+#### Secure Product Development Workflow  
+![Secure Product Development Workflow](path-to-image/Secure_Product_Development_Workflow.png)  
+
+This workflow outlines the key stages of secure product development, from requirements gathering to deployment and monitoring.
 
 ---
 
@@ -30,26 +53,9 @@ With expertise in **Zero Trust**, **Privacy by Design**, and **regulatory compli
 
 ---
 
-### 📈 Featured Projects  
+### 🌱 Currently Exploring  
 
-- **[Product Security Blueprint](https://github.com/PuddleSec/product-security-blueprint):** Comprehensive resources for secure development across industries.  
-- **[IoT Security Architecture](https://github.com/PuddleSec/iot-security-architecture):** Frameworks for securing IoT ecosystems.  
-
----
-
-### 🛠️ Skills & Expertise  
-
-#### **Core Security Frameworks**  
-- **Zero Trust**  
-- **Privacy by Design**  
-- **DevSecOps**  
-- **NIST Cybersecurity Framework**  
-
-#### **Tools & Technologies**  
-![Python](https://img.shields.io/badge/-Python-blue)  
-![Docker](https://img.shields.io/badge/-Docker-lightblue)  
-![Terraform](https://img.shields.io/badge/-Terraform-purple)  
-![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-orange)  
+I’m diving deeper into securing **AI/ML models** and using **blockchain technologies** to enhance product security frameworks.  
 
 ---
 
