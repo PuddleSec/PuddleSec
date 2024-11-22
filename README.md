@@ -32,10 +32,15 @@ Explore some of my most impactful projects:
 
 ### Visual Representation of My Work  
 
-#### Secure Product Development Workflow  
-![Secure Product Development Workflow](path-to-image/Secure_Product_Development_Workflow.png)  
+#### Zero Trust Implementation Workflow  
+![Zero Trust Implementation Workflow](path-to-image/Refined_Zero_Trust_Workflow.png)  
 
-This workflow outlines the key stages of secure product development, from requirements gathering to deployment and monitoring.
+This workflow illustrates how data flows securely between endpoints using Zero Trust principles.
+
+#### Secure SDLC Overview  
+![Secure SDLC Overview](path-to-image/Refined_SDLC_Overview.png)  
+
+The Secure Software Development Lifecycle ensures that security is integrated into every phase of product creation.
 
 ---
 
