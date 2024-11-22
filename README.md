@@ -10,9 +10,7 @@
 
 ### 🚀 About Me  
 
-I'm a **Principal Product Security Engineer** passionate about embedding security at the core of product innovation. From medical devices to IoT ecosystems and cloud applications, my mission is to design resilient, secure products that meet the highest industry standards.  
-
-With expertise in **Zero Trust**, **Privacy by Design**, and **regulatory compliance**, I help organizations navigate complex challenges while driving secure innovation.  
+I'm a **Principal Product Security Engineer** with a genuine passion for integrating security into exciting product innovations! Whether it's medical devices, IoT ecosystems, or cloud applications, I’m dedicated to creating secure and resilient products that exceed industry standards. By leveraging my expertise in **Zero Trust**, **Privacy by Design**, and **regulatory compliance**, I'm here to guide organizations through challenges and foster a culture of secure innovation. Let’s embark on this journey together!
 
 ---
 
@@ -35,7 +33,7 @@ Explore some of my most impactful projects:
 #### Zero Trust Implementation Workflow  
 ![Zero Trust Implementation Workflow](path-to-image/Refined_Zero_Trust_Workflow.png)  
 
-This workflow illustrates how data flows securely between endpoints using Zero Trust principles.
+This workflow illustrates how data flows securely between endpoints using zero-trust principles.
 
 #### Secure SDLC Overview  
 ![Secure SDLC Overview](path-to-image/Refined_SDLC_Overview.png)  
